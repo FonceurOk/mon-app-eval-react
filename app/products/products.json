@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a12f8c31-7d42-4e91-9b53-1c6a8f2d3047",
+    "name": "Casque Bluetooth",
+    "description": "Casque sans fil avec réduction de bruit",
+    "price": 79.99,
+    "category": "Électronique",
+    "image": "https://placehold.co/400x300?text=Casque+Bluetooth",
+    "stock": 15
+  },
+  {
+    "id": "b23e9d42-8c53-4fa2-a064-2d7b9e3f4158",
+    "name": "Souris sans fil",
+    "description": "Souris ergonomique avec connexion Bluetooth",
+    "price": 29.99,
+    "category": "Électronique",
+    "image": "https://placehold.co/400x300?text=Souris",
+    "stock": 32
+  },
+  {
+    "id": "c34f0e53-9d64-40b3-b175-3e8c0f4a5269",
+    "name": "Clavier mécanique",
+    "description": "Clavier mécanique rétroéclairé pour ordinateur",
+    "price": 89.90,
+    "category": "Électronique",
+    "image": "https://placehold.co/400x300?text=Clavier",
+    "stock": 12
+  },
+  {
+    "id": "d4501f64-ae75-41c4-8286-4f9d1a5b6370",
+    "name": "T-shirt en coton",
+    "description": "T-shirt confortable en coton biologique",
+    "price": 19.99,
+    "category": "Vêtements",
+    "image": "https://placehold.co/400x300?text=T-shirt",
+    "stock": 50
+  },
+  {
+    "id": "e5612075-bf86-42d5-9397-50ae2b6c7481",
+    "name": "Jean slim",
+    "description": "Jean slim en denim bleu",
+    "price": 49.90,
+    "category": "Vêtements",
+    "image": "https://placehold.co/400x300?text=Jean",
+    "stock": 24
+  },
+  {
+    "id": "f6723186-c097-43e6-a4a8-61bf3c7d8592",
+    "name": "Veste imperméable",
+    "description": "Veste légère idéale pour les jours de pluie",
+    "price": 69.99,
+    "category": "Vêtements",
+    "image": "https://placehold.co/400x300?text=Veste",
+    "stock": 8
+  },
+  {
+    "id": "07834297-d1a8-44f7-b5b9-72c04d8e9603",
+    "name": "Chaussures de running",
+    "description": "Chaussures légères pour la course à pied",
+    "price": 89.99,
+    "category": "Sport",
+    "image": "https://placehold.co/400x300?text=Running",
+    "stock": 18
+  },
+  {
+    "id": "189453a8-e2b9-4508-86ca-83d15e9fa714",
+    "name": "Tapis de yoga",
+    "description": "Tapis antidérapant pour le yoga et le fitness",
+    "price": 24.90,
+    "category": "Sport",
+    "image": "https://placehold.co/400x300?text=Tapis+Yoga",
+    "stock": 40
+  },
+  {
+    "id": "29a564b9-f3ca-4619-97db-94e26f0ab825",
+    "name": "Haltères réglables",
+    "description": "Paire d'haltères pour l'entraînement à domicile",
+    "price": 59.99,
+    "category": "Sport",
+    "image": "https://placehold.co/400x300?text=Haltere",
+    "stock": 10
+  },
+  {
+    "id": "3ab675ca-04db-472a-a8ec-a5f3701bc936",
+    "name": "Lampe de bureau",
+    "description": "Lampe LED avec intensité lumineuse réglable",
+    "price": 34.90,
+    "category": "Maison",
+    "image": "https://placehold.co/400x300?text=Lampe",
+    "stock": 22
+  },
+  {
+    "id": "4bc786db-15ec-483b-b9fd-b604812cda47",
+    "name": "Coussin décoratif",
+    "description": "Coussin doux pour canapé ou fauteuil",
+    "price": 14.99,
+    "category": "Maison",
+    "image": "https://placehold.co/400x300?text=Coussin",
+    "stock": 35
+  },
+  {
+    "id": "5cd897ec-26fd-494c-8a0e-c715923deb58",
+    "name": "Bouteille isotherme",
+    "description": "Bouteille en acier inoxydable de 750 ml",
+    "price": 22.50,
+    "category": "Maison",
+    "image": "https://placehold.co/400x300?text=Bouteille",
+    "stock": 28
+  },
+  {
+    "id": "6de9a8fd-370e-4a5d-9b1f-d826a34efc69",
+    "name": "Roman policier",
+    "description": "Roman policier avec une enquête pleine de suspense",
+    "price": 12.90,
+    "category": "Livres",
+    "image": "https://placehold.co/400x300?text=Roman",
+    "stock": 16
+  },
+  {
+    "id": "7efa9b0e-481f-4b6e-ac20-e937b45f0d70",
+    "name": "Livre de cuisine",
+    "description": "Recettes faciles pour cuisiner au quotidien",
+    "price": 24.90,
+    "category": "Livres",
+    "image": "https://placehold.co/400x300?text=Cuisine",
+    "stock": 14
+  },
+  {
+    "id": "8f0bac1f-5920-4c7f-bd31-fa48c5601e81",
+    "name": "Roman de science-fiction",
+    "description": "Voyage futuriste dans une galaxie lointaine",
+    "price": 18.50,
+    "category": "Livres",
+    "image": "https://placehold.co/400x300?text=Science+Fiction",
+    "stock": 20
+  },
+  {
+    "id": "90acbd20-6a31-4d80-8e42-0b59d6712f92",
+    "name": "Sac à dos",
+    "description": "Sac à dos polyvalent avec compartiment pour ordinateur",
+    "price": 44.99,
+    "category": "Accessoires",
+    "image": "https://placehold.co/400x300?text=Sac+a+dos",
+    "stock": 17
+  },
+  {
+    "id": "a1bdce31-7b42-4e91-9f53-1c6ae78230a3",
+    "name": "Montre classique",
+    "description": "Montre élégante avec bracelet en cuir",
+    "price": 99.90,
+    "category": "Accessoires",
+    "image": "https://placehold.co/400x300?text=Montre",
+    "stock": 9
+  },
+  {
+    "id": "b2cedf42-8c53-4fa2-a064-2d7bf89341b4",
+    "name": "Lunettes de soleil",
+    "description": "Lunettes de soleil avec protection UV400",
+    "price": 39.90,
+    "category": "Accessoires",
+    "image": "https://placehold.co/400x300?text=Lunettes",
+    "stock": 26
+  },
+  {
+    "id": "c3df e053-9d64-40b3-b175-3e8c0f4a52c5",
+    "name": "Cafetière italienne",
+    "description": "Cafetière en aluminium pour préparer un café intense",
+    "price": 27.90,
+    "category": "Cuisine",
+    "image": "https://placehold.co/400x300?text=Cafetiere",
+    "stock": 13
+  },
+  {
+    "id": "d4e0f164-ae75-41c4-8286-4f9d1a5b63d6",
+    "name": "Mixeur portable",
+    "description": "Mixeur compact rechargeable pour smoothies",
+    "price": 35.99,
+    "category": "Cuisine",
+    "image": "https://placehold.co/400x300?text=Mixeur",
+    "stock": 11
+  }
+]
